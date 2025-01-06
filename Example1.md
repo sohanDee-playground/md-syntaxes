@@ -22,4 +22,21 @@ This is bold and italic text
 *This is an italic text* <br>
 __This is still a bold text__ <br>
 _This is still a italic text_ <br>
-***This is bold and italic text***
+***This is bold and italic text***<br>
+~~This is a strikethrough~~
+<hr>
+
+Visit [Google](www.google.com) \
+Visit [Youtube](www.youtube.com)
+<hr>
+
+* 1<sup>st</sup> Item
+* 2<sup>nd</sup> Item
+* 3<sup>rd</sup> Item
+* 4<sup>th</sup> Item
+<hr>
+
+> Text that is a quote
+<hr>
+
+
