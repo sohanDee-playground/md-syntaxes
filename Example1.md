@@ -39,4 +39,6 @@ Visit [Youtube](www.youtube.com)
 > Text that is a quote
 <hr>
 
-
+![Google](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png)
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png">
+![Instagram](img/insta.jpg)
